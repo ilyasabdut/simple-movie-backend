@@ -10,7 +10,7 @@ var movieController = require('./movie.controller');
 router.route('/movies')
     .get(movieController.index)
     .post(movieController.new);
-router.route('/movies/top10')
+    router.route('/movies/top10')
     .get(movieController.topten);
 router.route('/movies/:movie_id')
     .get(movieController.view)

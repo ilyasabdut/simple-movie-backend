@@ -1,0 +1,133 @@
+[{
+  "_id": {
+    "$oid": "604647ec9c32bd3373efc1b7"
+  },
+  "name": "The Shawshank Redemption ",
+  "genre": "Drama",
+  "year": "1994",
+  "rate": 9.3,
+  "synopsis": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.\n",
+  "url": "https://www.imdb.com/title/tt0111161/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=9RRWQCQF17H8VC56MH1A&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_1\n\n",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604648359c32bd3373efc1b8"
+  },
+  "name": "The Godfather ",
+  "genre": "Crime, Drama",
+  "year": "1972",
+  "rate": 9.2,
+  "synopsis": "An organized crime dynasty's aging patriarch transfers control of his clandestine empire to his reluctant son.\n",
+  "url": "https://www.imdb.com/title/tt0068646/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=9RRWQCQF17H8VC56MH1A&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6046487a9c32bd3373efc1b9"
+  },
+  "name": "The Godfather: Part II ",
+  "genre": "Crime, Drama",
+  "year": "1974",
+  "rate": 9,
+  "synopsis": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
+  "url": "https://www.imdb.com/title/tt0071562/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=9RRWQCQF17H8VC56MH1A&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604648da9c32bd3373efc1ba"
+  },
+  "name": "The Dark Knight",
+  "genre": "Action, Crime, Drama",
+  "year": "2008",
+  "rate": 9,
+  "synopsis": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.\n",
+  "url": "https://www.imdb.com/title/tt0468569/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=9RRWQCQF17H8VC56MH1A&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_4",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6046491e9c32bd3373efc1bb"
+  },
+  "name": "12 Angry Men ",
+  "genre": "Crime, Drama",
+  "year": "1957",
+  "rate": 9,
+  "synopsis": "A jury holdout attempts to prevent a miscarriage of justice by forcing his colleagues to reconsider the evidence.",
+  "url": "https://www.imdb.com/title/tt0050083/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=9RRWQCQF17H8VC56MH1A&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_5",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6046496c9c32bd3373efc1bc"
+  },
+  "name": "Schindler's List",
+  "genre": "Biography, Drama, History",
+  "year": "1993",
+  "rate": 8.9,
+  "synopsis": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.\n",
+  "url": "https://www.imdb.com/title/tt0108052/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=9RRWQCQF17H8VC56MH1A&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_6",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604649aa9c32bd3373efc1bd"
+  },
+  "name": "Logan",
+  "genre": "Action, Drama, Sci-fi",
+  "year": "2017",
+  "rate": 8.1,
+  "synopsis": "In a future where mutants are nearly extinct, an elderly and weary Logan leads a quiet life. But when Laura, a mutant child pursued by scientists, comes to him for help, he must get her to safety.",
+  "url": "https://www.imdb.com/title/tt3315342/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=9RRWQCQF17H8VC56MH1A&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_217",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60464ae98875417d5edc1584"
+  },
+  "name": "Harry Potter and the Deathly Hallows: Part 2 ",
+  "genre": "Adventure, Drama, Fantasy",
+  "year": "2011",
+  "rate": 8.1,
+  "synopsis": "Harry, Ron, and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts.\n",
+  "url": "https://www.imdb.com/title/tt1201607/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=9RRWQCQF17H8VC56MH1A&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_212",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60464b218875417d5edc1585"
+  },
+  "name": "The Invisible Guest",
+  "genre": "Crime, Drama, Mystery",
+  "year": "2016",
+  "rate": 8.1,
+  "synopsis": "A successful entrepreneur accused of murder and a witness preparation expert have less than three hours to come up with an impregnable defense.\n",
+  "url": "https://www.imdb.com/title/tt4857264/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=9RRWQCQF17H8VC56MH1A&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_245",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60464b678875417d5edc1586"
+  },
+  "name": "The Matrix ",
+  "genre": "Action, Sci-fi",
+  "year": "1999",
+  "rate": 8.7,
+  "synopsis": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
+  "url": "https://www.imdb.com/title/tt0133093/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=9RRWQCQF17H8VC56MH1A&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_16",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60464bb08875417d5edc1587"
+  },
+  "name": "The Lord of the Rings: The Two Towers ",
+  "genre": "Action, Adventure, Drama",
+  "year": "2002",
+  "rate": 8.7,
+  "synopsis": "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.",
+  "url": "https://www.imdb.com/title/tt0167261/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=9RRWQCQF17H8VC56MH1A&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_14",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60464beb8875417d5edc1588"
+  },
+  "name": "Inception",
+  "genre": "Action, Adventure, Sci-fi",
+  "year": "2010",
+  "rate": 8.8,
+  "synopsis": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.\n",
+  "url": "https://www.imdb.com/title/tt1375666/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=9RRWQCQF17H8VC56MH1A&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_13",
+  "__v": 0
+}]
