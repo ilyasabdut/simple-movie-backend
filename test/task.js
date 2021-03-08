@@ -8,8 +8,14 @@ let server = require("../index");
 let should = chai.should();
 
 chai.use(chaiHttp);
-//Our parent block
+
 describe("Movies", () => {
+  beforeEach((done) => {
+    Movie.remove({}, (err) => {
+      done();
+    });
+  });
+
   /*
    * Test the /GET route
    */
@@ -18,6 +24,21 @@ describe("Movies", () => {
       chai
         .request(server)
         .get("/api/movies")
+        .end((err, res) => {
+          res.should.have.status(200);
+          done();
+        });
+    });
+  });
+
+  /*
+   * Test the /GET route
+   */
+  describe("/GET top 10 movies", () => {
+    it("it should GET the top 10 movies", (done) => {
+      chai
+        .request(server)
+        .get("/api/movies/top10")
         .end((err, res) => {
           res.should.have.status(200);
           done();
@@ -104,9 +125,7 @@ describe("Movies", () => {
           .end((err, res) => {
             res.should.have.status(200);
             res.body.should.be.a("object");
-            res.body.should.have
-              .property("message")
-              .eql("Movie deleted");
+            res.body.should.have.property("message").eql("Movie deleted");
             done();
           });
       });
