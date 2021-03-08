@@ -3,6 +3,7 @@ let bodyParser = require("body-parser");
 let mongoose = require("mongoose");
 var cors = require("cors");
 let app = express();
+module.exports = app.listen(3000);
 app.use(cors());
 
 let apiRoutes = require("./api-routes");
