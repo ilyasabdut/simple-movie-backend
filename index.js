@@ -15,7 +15,11 @@ app.use(bodyParser.json());
 
 const uri = process.env.ATLAS_URI || "mongodb://localhost/moviedb";
 
-mongoose.connect(uri, { useUnifiedTopology: true, useNewUrlParser: true ,   dbName:"moviedb"});
+mongoose.connect(uri, {
+  useUnifiedTopology: true,
+  useNewUrlParser: true,
+  dbName: "moviedb"
+});
 var db = mongoose.connection;
 
 if (!db) console.log("Error connecting db");
